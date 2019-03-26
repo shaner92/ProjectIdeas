@@ -4,3 +4,4 @@ Ideas for future projects
 2. Build something with GraphQL & Apollo
 3. Cross platform desktop app with Electron
 4. Mobile app with React native
+5. Learn AWS, Azure, Heroku
